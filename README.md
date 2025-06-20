@@ -28,7 +28,7 @@ A responsive personal portfolio website showcasing:
 - Contact Form
 - Social Media Links
 
-📁 Folder: `/Task-1-Portfolio`
+📁 Folder: `/Portfolio`
 
 ---
 
@@ -39,7 +39,7 @@ A visually appealing product/service landing page featuring:
 - Call-to-Action Buttons
 - Footer
 
-📁 Folder: `/Task-2-Landing-Page`
+📁 Folder: `/LandingPage`
 
 ---
 
@@ -50,7 +50,7 @@ An interactive calculator capable of performing basic arithmetic operations:
 - Multiplication
 - Division
 
-📁 Folder: `/Task-3-Calculator`
+📁 Folder: `/Calculator`
 
 ---
 
@@ -58,4 +58,4 @@ An interactive calculator capable of performing basic arithmetic operations:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/codsoft-web-internship.git
+   git clone https://github.com/vedhavithyaseenivasan/CODSOFT.git
