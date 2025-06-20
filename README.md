@@ -50,7 +50,7 @@ An interactive calculator capable of performing basic arithmetic operations:
 - Multiplication
 - Division
 
-📁 Folder: `/Calculator`
+📁 Folder: `/Simple Calculator`
 
 ---
 
