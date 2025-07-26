@@ -22,9 +22,12 @@ The internship involved hands-on experience in building web interfaces using **H
 ## 📋 Completed Tasks
 
 ### ✅ Task 1: **Portfolio Website**
-A responsive personal portfolio website showcasing:
+A personal portfolio website showcasing:
 - About Me
 - Skills & Projects
+- Certifications
+- Internships
+- Papers
 - Contact Form
 - Social Media Links
 - 📽️ Video demo : [Watch Demo](https://www.linkedin.com/posts/vedhavithya-s_webdevelopment-portfolio-internship-activity-7237072688475709441-tilM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-e2agBDkmvS9I5dJ2wD8LY8jyd8X8_OvI)
